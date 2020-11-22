@@ -4,4 +4,4 @@ console.log("bisa yu bisa");
 console.log("selamat pagi");
 console.log("jangan lupa saranpan");
 console.log("Selamat siang");
-console.log("ganbatte");
+console.log("ganbatte seli"); // ganbatte
